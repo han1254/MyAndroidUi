@@ -1,0 +1,2 @@
+include ':app', ':lib-ui'
+rootProject.name='MyUi'

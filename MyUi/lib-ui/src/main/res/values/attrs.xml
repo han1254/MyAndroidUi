@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="EasyArcView">
+        <attr name="arc_radius" format="integer"/>
+        <attr name="arc_position">
+            <enum name="up" value="0"/>
+            <enum name="down" value="1"/>
+        </attr>
+        <attr name="start_color" format="color"/>
+        <attr name="end_color" format="color"/>
+    </declare-styleable>
+</resources>
