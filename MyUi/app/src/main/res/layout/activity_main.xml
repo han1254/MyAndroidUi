@@ -6,15 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-   <com.example.lib_ui.shape.EasyArcView
-       android:layout_width="match_parent"
-       android:layout_height="200dp"
-       app:start_color="@color/black"
-       app:end_color="@color/primary_light"
-       android:layout_centerVertical="true"
-       app:arc_position="down"
-       app:arc_radius="2">
 
-   </com.example.lib_ui.shape.EasyArcView>
 
 </RelativeLayout>
